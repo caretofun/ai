@@ -18,7 +18,7 @@
 # --- Backend Configuration ---
 backend:
   name: github
-  repo: your-user/your-repo              # CHANGE: Your GitHub username/repo
+  repo: caretofun/ai
   branch: main
   base_url: https://your-site.pages.dev  # CHANGE: Your Cloudflare Pages URL
   auth_endpoint: api/auth
